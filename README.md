@@ -1,1 +1,1 @@
-# qa_jun22-SerhiiZelenov
+# initial commit
